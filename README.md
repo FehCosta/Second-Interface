@@ -2,20 +2,13 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="./assets/Logo.png" alt="logo">
+<img src="./Assets/Logo.png" alt="Logo">
 
 > Inteface de Login usando as tecnologias HTML e CSS
 
-### Ajustes e melhorias
+### Diferencial
 
-O projeto está finalizado e foi focado em:
-
-- [x] Fácil visualização  
-- [x] Interface Clean
-
-
-
-
-
-<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-
+O projeto está finalizado,
+o diferencial é que foram usados links
+em cada uma das imagens abaixo,
+deixando mais interativo
